@@ -1,0 +1,5 @@
+{
+  "name": "AI Job Search Automator",
+  "description": "An intelligent web application that automates your job search. Upload your resume, and the app will find relevant job postings, help you apply, and track your progress using the power of the Gemini API.",
+  "requestFramePermissions": []
+}
